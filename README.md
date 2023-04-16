@@ -12,6 +12,7 @@ file = "~/.config/hypr/colors.conf"
 template = "hyprland"
 subtemplate = "colors"
 rewrite = true
+hook = "hyprctl reload"
 ```
 
 Add to your `hyprland.conf`:
