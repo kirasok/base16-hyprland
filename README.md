@@ -10,6 +10,7 @@ Add to your [flavours](https://github.com/Misterio77/flavours) config:
 [[items]]
 file = "~/.config/hypr/colors.conf"
 template = "hyprland"
+subtemplate = "colors"
 rewrite = true
 ```
 
